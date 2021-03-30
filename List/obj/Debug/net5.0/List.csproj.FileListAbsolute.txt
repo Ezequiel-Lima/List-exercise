@@ -1,0 +1,16 @@
+C:\Users\Quiel\source\repos\ExerciseList\List\List\bin\Debug\net5.0\List.exe
+C:\Users\Quiel\source\repos\ExerciseList\List\List\bin\Debug\net5.0\List.deps.json
+C:\Users\Quiel\source\repos\ExerciseList\List\List\bin\Debug\net5.0\List.runtimeconfig.json
+C:\Users\Quiel\source\repos\ExerciseList\List\List\bin\Debug\net5.0\List.runtimeconfig.dev.json
+C:\Users\Quiel\source\repos\ExerciseList\List\List\bin\Debug\net5.0\List.dll
+C:\Users\Quiel\source\repos\ExerciseList\List\List\bin\Debug\net5.0\ref\List.dll
+C:\Users\Quiel\source\repos\ExerciseList\List\List\bin\Debug\net5.0\List.pdb
+C:\Users\Quiel\source\repos\ExerciseList\List\List\obj\Debug\net5.0\List.csprojAssemblyReference.cache
+C:\Users\Quiel\source\repos\ExerciseList\List\List\obj\Debug\net5.0\List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quiel\source\repos\ExerciseList\List\List\obj\Debug\net5.0\List.AssemblyInfoInputs.cache
+C:\Users\Quiel\source\repos\ExerciseList\List\List\obj\Debug\net5.0\List.AssemblyInfo.cs
+C:\Users\Quiel\source\repos\ExerciseList\List\List\obj\Debug\net5.0\List.csproj.CoreCompileInputs.cache
+C:\Users\Quiel\source\repos\ExerciseList\List\List\obj\Debug\net5.0\List.dll
+C:\Users\Quiel\source\repos\ExerciseList\List\List\obj\Debug\net5.0\ref\List.dll
+C:\Users\Quiel\source\repos\ExerciseList\List\List\obj\Debug\net5.0\List.pdb
+C:\Users\Quiel\source\repos\ExerciseList\List\List\obj\Debug\net5.0\List.genruntimeconfig.cache
